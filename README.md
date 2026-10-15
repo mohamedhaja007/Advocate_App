@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # advocate_user_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Advocate_App
+>>>>>>> 993e6a50902f7e069f3ef96bb48b5df44ce5241b
